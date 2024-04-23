@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\utility\\folderstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\utility\\folderstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\pages\\photoupload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\pages\\photoupload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\pages\\photoupload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\pages\\photoupload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milag\\AppData\\Roaming\\Microsoft\\UserSecrets\\699a7c44-3086-4d84-ab5d-a3bed41ba55b\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\repository\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\repository\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\pages\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\pages\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\properties\\publishprofiles\\demoblobupload - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\properties\\publishprofiles\\demoblobupload - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|c:\\users\\milag\\source\\repos\\azureblobupload\\azureblobupload\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6369FE2-CB1C-4272-B180-9353578B150C}|AzureBlobUpload\\AzureBlobUpload.csproj|solutionrelative:azureblobupload\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\appsettings.Development.json",
+              "RelativeToolTip": "AzureBlobUpload\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T22:30:07.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FolderStorage.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Utility\\FolderStorage.cs",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\Utility\\FolderStorage.cs",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Utility\\FolderStorage.cs",
+              "RelativeToolTip": "AzureBlobUpload\\Utility\\FolderStorage.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:47:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhotoUpload.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Pages\\PhotoUpload.cshtml.cs",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\Pages\\PhotoUpload.cshtml.cs",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Pages\\PhotoUpload.cshtml.cs",
+              "RelativeToolTip": "AzureBlobUpload\\Pages\\PhotoUpload.cshtml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:28:08.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhotoUpload.cshtml",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Pages\\PhotoUpload.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\Pages\\PhotoUpload.cshtml",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Pages\\PhotoUpload.cshtml",
+              "RelativeToolTip": "AzureBlobUpload\\Pages\\PhotoUpload.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T15:27:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Program.cs",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\Program.cs",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Program.cs",
+              "RelativeToolTip": "AzureBlobUpload\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:02:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\appsettings.json",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\appsettings.json",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\appsettings.json",
+              "RelativeToolTip": "AzureBlobUpload\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T22:30:31.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Repository\\IStorage.cs",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\Repository\\IStorage.cs",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Repository\\IStorage.cs",
+              "RelativeToolTip": "AzureBlobUpload\\Repository\\IStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:44:14.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\milag\\AppData\\Roaming\\Microsoft\\UserSecrets\\699a7c44-3086-4d84-ab5d-a3bed41ba55b\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\699a7c44-3086-4d84-ab5d-a3bed41ba55b\\secrets.json",
+              "ToolTip": "C:\\Users\\milag\\AppData\\Roaming\\Microsoft\\UserSecrets\\699a7c44-3086-4d84-ab5d-a3bed41ba55b\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\699a7c44-3086-4d84-ab5d-a3bed41ba55b\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAADoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T16:09:33.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AzureBlobUpload\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T16:49:09.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Pages\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\Pages\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Pages\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "AzureBlobUpload\\Pages\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T17:51:33.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "demoblobupload - Web Deploy.pubxml",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Properties\\PublishProfiles\\demoblobupload - Web Deploy.pubxml",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\Properties\\PublishProfiles\\demoblobupload - Web Deploy.pubxml",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Properties\\PublishProfiles\\demoblobupload - Web Deploy.pubxml",
+              "RelativeToolTip": "AzureBlobUpload\\Properties\\PublishProfiles\\demoblobupload - Web Deploy.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-18T17:42:31.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AzureBlobUpload\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\milag\\source\\repos\\AzureBlobUpload\\AzureBlobUpload\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AzureBlobUpload\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T17:06:30.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
