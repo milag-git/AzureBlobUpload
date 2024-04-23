@@ -11,14 +11,14 @@ builder.Services.AddTransient<IStorage, FolderStorage>();
 if (builder.Environment.IsDevelopment())
 {
 
-    //Set the connection string for your Azure storage Account in appsettings.development.json
+    //Set the connection string for your Azure storage Account in appsettings.development.json. Copy the connection string from "Access keys" section of the Azure storage account
     builder.Services.AddSingleton<BlobServiceClient>(x => new BlobServiceClient(builder.Configuration.GetConnectionString("Azurestorage")));
 
 
 }
 else
 {
-    //For Production Release on Azure App service, add "ASPNETCORE_ENVIRONMENT" value = "Production" for Environment Variables
+    //For Production Release on Azure App service, add "ASPNETCORE_ENVIRONMENT" value = "Production" for Environment Variables. Copy the Endpoint URL from Primary Endpoimt under "Endpoints" section of Azure storage Account
     builder.Services.AddSingleton<BlobServiceClient>(x =>
    new BlobServiceClient(
        new Uri("Your Azure Storage Account Endpoint URL"),
